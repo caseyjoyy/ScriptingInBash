@@ -11,4 +11,4 @@ In this project we will apply our coding skills to pick up some low-level script
 
 ```
 ## The process I took
-I simply followed along during the tutorial that was given. I used the vim that comes installed in the mac terminal, so that helped. In addition, I cd into my repo when making all of the .sh files. Finally, I then used VS code to edit the README that your reading now and to push all of the files to GitHub :grin:
+I simply followed along during the tutorial that was given. I used the vim that comes installed in the mac terminal, so that helped. In addition, I cd into my repo when making all of the .sh files. Finally, I then used VS code to edit the README that your reading now and to push all of the files to GitHub 😄
