@@ -31,3 +31,13 @@ While going through the tutorial, everything worked that I could notice. One sma
 
 [source1]: https://linuxconfig.org/bash-scripting-tutorial-for-beginners
 [source2]: https://www.keycdn.com/blog/vim-commands
+
+
+
+
+# Code Review Casey Marotta
+ ### Comments:
+- Code is very well organized and easy to follow. The logic flows very well.
+- Since I'm not familiar with python, it was interesting to see the different syntax and operators.
+- All the indentions looked good, the only thing I could recommend is possibly adding additional comments to help someone who is not familiar with python for example, more comments on syntax being used in each function. 
+
